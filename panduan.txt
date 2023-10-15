@@ -1,0 +1,14 @@
+Database name = 'toko_online'
+
+routes / base_url()= 'localhost/toko_online'
+
+user
+-------------
+admin
+
+username = admin
+password = 12345
+-------------
+
+untuk memasukan kedalam keranjang/cart user terlebih dahulu harus registrasi akun
+kemudian login,
